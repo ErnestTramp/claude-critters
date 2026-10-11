@@ -1,0 +1,15 @@
+{
+  "name": "claude-critters",
+  "owner": {
+    "name": "Ernest Brenchley",
+    "url": "https://github.com/ErnestTramp"
+  },
+  "description": "Critters, a Claude Code mod that shows your background agents as pixel sprites.",
+  "plugins": [
+    {
+      "name": "critters",
+      "source": "./",
+      "description": "Pixel critters above the prompt for each background agent, a different sprite per model. Expand for a task list, click one for its transcript, or hide them in the footer."
+    }
+  ]
+}
